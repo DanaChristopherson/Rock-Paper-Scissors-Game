@@ -1,0 +1,5 @@
+Suite/Test/Step Name,Browser,Description,Start time,End time,Duration,Status
+Verify Game Funtions,,,2019-04-08 12:56:11,2019-04-08 12:56:13,1.944s,FAILED
+,,,,,,
+Test Cases/Test Case 1,,,2019-04-08 12:56:11,2019-04-08 12:56:13,1.786s,FAILED
+"openBrowser("""")",,,2019-04-08 12:56:12,2019-04-08 12:56:13,1.591s,FAILED

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="Verify Game Funtions" time="4" tests="1" failures="0" errors="0">
+   <testsuite name="Verify Game Funtions" tests="1" failures="0" errors="0" time="4" timestamp="2019-04-08 12:53:01" hostname="Dana Christopherson - DESKTOP-IJVSG06.telus" id="Test Suites/Verify Game Funtions">
+      <properties>
+         <property name="deviceName" value=""/>
+         <property name="devicePlatform" value=""/>
+         <property name="logFolder" value="C:\\Users\\Dana Christopherson\\Katalon Studio\\Rock Paper Scissors Game\\Reports\\Verify Game Funtions\\20190408_125258"/>
+         <property name="logFiles" value="C:\\Users\\Dana Christopherson\\Katalon Studio\\Rock Paper Scissors Game\\Reports\\Verify Game Funtions\\20190408_125258\\execution0.log"/>
+         <property name="attachments" value=""/>
+         <property name="hostName" value="Dana Christopherson - DESKTOP-IJVSG06.telus"/>
+         <property name="os" value="Windows 10 64bit"/>
+         <property name="katalonVersion" value="6.1.0.1"/>
+         <property name="browser" value="Firefox 66.0"/>
+         <property name="hostAddress" value="192.168.1.74"/>
+         <property name="sessionId" value="f954c685-73e1-46cd-bd8f-598dd77e47f1"/>
+         <property name="seleniumVersion" value="3.7.1"/>
+         <property name="proxyInformation" value="ProxyInformation{proxyOption=NO_PROXY, proxyServerType=HTTP, password=, proxyServerAddress=, proxyServerPort=0}"/>
+         <property name="platform" value="Windows 10"/>
+      </properties>
+      <testcase name="Test Cases/Test Case 1" classname="Test Cases/Test Case 1" status="PASSED">
+         <system-out><![CDATA[2019-04-08 12:53:01 - [TEST_CASE][PASSED] - Test Cases/Test Case 1: Test Cases/Test Case 1
+
+2019-04-08 12:53:01 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+2019-04-08 12:53:01 - [MESSAGE][INFO] - Starting 'Firefox' driver
+
+2019-04-08 12:53:01 - [MESSAGE][INFO] - Action delay is set to 0 seconds
+
+2019-04-08 12:53:03 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+2019-04-08 12:53:03 - [TEST_STEP][PASSED] - navigateToUrl("https://danachristopherson.github.io/Rock-Paper-Scissors-Game/"): Navigate to 'https://danachristopherson.github.io/Rock-Paper-Scissors-Game/' successfully
+
+2019-04-08 12:53:04 - [MESSAGE][PASSED] - Navigate to 'https://danachristopherson.github.io/Rock-Paper-Scissors-Game/' successfully
+
+2019-04-08 12:53:04 - [TEST_STEP][PASSED] - verifyElementText(findTestObject("Test_1_OR/Page_Rock Paper Scissors Game/p_Lets Play"), "Lets Play!"): Actual text and expected text of test object 'Object Repository/Test_1_OR/Page_Rock Paper Scissors Game/p_Lets Play' are matched.
+
+2019-04-08 12:53:04 - [MESSAGE][PASSED] - Actual text and expected text of test object 'Object Repository/Test_1_OR/Page_Rock Paper Scissors Game/p_Lets Play' are matched.
+
+2019-04-08 12:53:04 - [TEST_STEP][PASSED] - mouseOver(findTestObject("Test_1_OR/Page_Rock Paper Scissors Game/div_AI_rock")): Object: 'Object Repository/Test_1_OR/Page_Rock Paper Scissors Game/div_AI_rock' is hovered
+
+2019-04-08 12:53:04 - [MESSAGE][PASSED] - Object: 'Object Repository/Test_1_OR/Page_Rock Paper Scissors Game/div_AI_rock' is hovered
+
+2019-04-08 12:53:04 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Test_1_OR/Page_Rock Paper Scissors Game/img")): Object: 'Object Repository/Test_1_OR/Page_Rock Paper Scissors Game/img' is clicked on
+
+2019-04-08 12:53:04 - [MESSAGE][PASSED] - Object: 'Object Repository/Test_1_OR/Page_Rock Paper Scissors Game/img' is clicked on
+
+2019-04-08 12:53:04 - [TEST_STEP][PASSED] - verifyTextPresent("Your", false): Text 'Your' is present on page 
+
+2019-04-08 12:53:04 - [MESSAGE][PASSED] - Text 'Your' is present on page 
+
+2019-04-08 12:53:04 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+2019-04-08 12:53:05 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <system-out><![CDATA[2019-04-08 12:53:01 - [TEST_SUITE][PASSED] - Verify Game Funtions: Test Cases/Test Case 1]]></system-out>
+      <system-err><![CDATA[]]></system-err>
+   </testsuite>
+</testsuites>
