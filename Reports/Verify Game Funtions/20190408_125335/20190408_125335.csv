@@ -1,0 +1,11 @@
+Suite/Test/Step Name,Browser,Description,Start time,End time,Duration,Status
+Verify Game Funtions,Firefox 66.0,,2019-04-08 12:53:39,2019-04-08 12:53:44,5.286s,PASSED
+,,,,,,
+Test Cases/Test Case 1,Firefox 66.0,,2019-04-08 12:53:39,2019-04-08 12:53:44,5.095s,PASSED
+"openBrowser("""")",Firefox 66.0,,2019-04-08 12:53:39,2019-04-08 12:53:42,3.148s,PASSED
+"navigateToUrl(""https://danachristopherson.github.io/Rock-Paper-Scissors-Game/"")",Firefox 66.0,,2019-04-08 12:53:42,2019-04-08 12:53:43,0.556s,PASSED
+"verifyElementText(findTestObject(""Test_1_OR/Page_Rock Paper Scissors Game/p_Lets Play""), ""Lets Play!"")",Firefox 66.0,,2019-04-08 12:53:43,2019-04-08 12:53:43,0.057s,PASSED
+"mouseOver(findTestObject(""Test_1_OR/Page_Rock Paper Scissors Game/div_AI_rock""))",Firefox 66.0,,2019-04-08 12:53:43,2019-04-08 12:53:43,0.139s,PASSED
+"click(findTestObject(""Object Repository/Test_1_OR/Page_Rock Paper Scissors Game/img""))",Firefox 66.0,,2019-04-08 12:53:43,2019-04-08 12:53:43,0.230s,PASSED
+"verifyTextPresent(""Your"", false)",Firefox 66.0,,2019-04-08 12:53:43,2019-04-08 12:53:43,0.033s,PASSED
+closeBrowser(),Firefox 66.0,,2019-04-08 12:53:43,2019-04-08 12:53:44,0.631s,PASSED

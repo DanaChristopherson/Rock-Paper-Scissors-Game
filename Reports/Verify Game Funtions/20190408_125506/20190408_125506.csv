@@ -1,0 +1,7 @@
+Suite/Test/Step Name,Browser,Description,Start time,End time,Duration,Status
+Verify Game Funtions,IE 11,,2019-04-08 12:55:09,2019-04-08 12:55:13,3.575s,FAILED
+,,,,,,
+Test Cases/Test Case 1,IE 11,,2019-04-08 12:55:09,2019-04-08 12:55:12,2.873s,FAILED
+"openBrowser("""")",IE 11,,2019-04-08 12:55:10,2019-04-08 12:55:11,1.740s,PASSED
+"navigateToUrl(""https://danachristopherson.github.io/Rock-Paper-Scissors-Game/"")",IE 11,,2019-04-08 12:55:11,2019-04-08 12:55:11,0.048s,PASSED
+"verifyElementText(findTestObject(""Test_1_OR/Page_Rock Paper Scissors Game/p_Lets Play""), ""Lets Play!"")",IE 11,,2019-04-08 12:55:11,2019-04-08 12:55:12,0.868s,FAILED
